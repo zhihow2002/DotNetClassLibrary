@@ -1,0 +1,12 @@
+C:\Users\cheehow\Documents\GitHub\DotNetClassLibrary\StringLibrary\bin\Debug\net6.0\StringLibrary.deps.json
+C:\Users\cheehow\Documents\GitHub\DotNetClassLibrary\StringLibrary\bin\Debug\net6.0\StringLibrary.dll
+C:\Users\cheehow\Documents\GitHub\DotNetClassLibrary\StringLibrary\bin\Debug\net6.0\ref\StringLibrary.dll
+C:\Users\cheehow\Documents\GitHub\DotNetClassLibrary\StringLibrary\bin\Debug\net6.0\StringLibrary.pdb
+C:\Users\cheehow\Documents\GitHub\DotNetClassLibrary\StringLibrary\obj\Debug\net6.0\StringLibrary.csproj.AssemblyReference.cache
+C:\Users\cheehow\Documents\GitHub\DotNetClassLibrary\StringLibrary\obj\Debug\net6.0\StringLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cheehow\Documents\GitHub\DotNetClassLibrary\StringLibrary\obj\Debug\net6.0\StringLibrary.AssemblyInfoInputs.cache
+C:\Users\cheehow\Documents\GitHub\DotNetClassLibrary\StringLibrary\obj\Debug\net6.0\StringLibrary.AssemblyInfo.cs
+C:\Users\cheehow\Documents\GitHub\DotNetClassLibrary\StringLibrary\obj\Debug\net6.0\StringLibrary.csproj.CoreCompileInputs.cache
+C:\Users\cheehow\Documents\GitHub\DotNetClassLibrary\StringLibrary\obj\Debug\net6.0\StringLibrary.dll
+C:\Users\cheehow\Documents\GitHub\DotNetClassLibrary\StringLibrary\obj\Debug\net6.0\ref\StringLibrary.dll
+C:\Users\cheehow\Documents\GitHub\DotNetClassLibrary\StringLibrary\obj\Debug\net6.0\StringLibrary.pdb
