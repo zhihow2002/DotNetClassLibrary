@@ -15,7 +15,7 @@ class Program
             if (string.IsNullOrEmpty(input)) break;
             Console.WriteLine($"Input: {input}");
             Console.WriteLine("Begins with uppercase? " +
-                 $"{(input.StartsWithUpperWord() ? "Yess" : "No")}");
+                 $"{(input.StartsWithUpperWord() ? "Yess" : "Noo")}");
             Console.WriteLine();
             row += 4;
         } while (true);
