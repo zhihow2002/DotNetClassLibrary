@@ -6164,11 +6164,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\cheehow\\Documents\\GitHub\\DotNetClassLibrary\\StringLibraryTest\\StringLibraryTest.csproj",
+      "projectUniqueName": "c:\\Users\\cheehow\\Documents\\GitHub\\DotNetClassLibrary\\StringLibraryTest\\StringLibraryTest.csproj",
       "projectName": "StringLibraryTest",
-      "projectPath": "C:\\Users\\cheehow\\Documents\\GitHub\\DotNetClassLibrary\\StringLibraryTest\\StringLibraryTest.csproj",
+      "projectPath": "c:\\Users\\cheehow\\Documents\\GitHub\\DotNetClassLibrary\\StringLibraryTest\\StringLibraryTest.csproj",
       "packagesPath": "C:\\Users\\cheehow\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\cheehow\\Documents\\GitHub\\DotNetClassLibrary\\StringLibraryTest\\obj\\",
+      "outputPath": "c:\\Users\\cheehow\\Documents\\GitHub\\DotNetClassLibrary\\StringLibraryTest\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -6186,8 +6186,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\cheehow\\Documents\\GitHub\\DotNetClassLibrary\\StringLibrary\\StringLibrary.csproj": {
-              "projectPath": "C:\\Users\\cheehow\\Documents\\GitHub\\DotNetClassLibrary\\StringLibrary\\StringLibrary.csproj"
+            "c:\\Users\\cheehow\\Documents\\GitHub\\DotNetClassLibrary\\StringLibrary\\StringLibrary.csproj": {
+              "projectPath": "c:\\Users\\cheehow\\Documents\\GitHub\\DotNetClassLibrary\\StringLibrary\\StringLibrary.csproj"
             }
           }
         }

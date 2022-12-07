@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "LqW/ZBNrJqmDptqtc8Es8/tO15E+steEa9bafseiih+E6Qq8fPSXIeHRI3VpHxLPKIxBS7+EkC6P+VzgWebAOQ==",
+  "dgSpecHash": "6XcPUzzkvVmYSuAMgI6KFB9N5LlL9c83F5TmWka0kxs260fSQ1ZClFnFYdAhK49Yw73a/vXZcCAqMAiu/RDa+Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\cheehow\\Documents\\GitHub\\DotNetClassLibrary\\StringLibrary\\StringLibrary.csproj",
+  "projectFilePath": "c:\\Users\\cheehow\\Documents\\GitHub\\DotNetClassLibrary\\StringLibrary\\StringLibrary.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

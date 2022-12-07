@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "QTrr2wKWQE9LYrm3qOHyZfwbrPw1uiJa973h5oeZKuG0yZZf2m/+IfIY0Q4OMbRfBnRWReZxCVeXgZFOT8dzDw==",
+  "dgSpecHash": "29M+WhtQIUcCZmojuEH0Zn9/gwr1nZ67JpSiYr4Jhx7rBx+w/jkkq6mwvNQxfG9HEg94sw1fOgeqBBeJEREd0g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\cheehow\\Documents\\GitHub\\DotNetClassLibrary\\StringLibraryTest\\StringLibraryTest.csproj",
+  "projectFilePath": "c:\\Users\\cheehow\\Documents\\GitHub\\DotNetClassLibrary\\StringLibraryTest\\StringLibraryTest.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\cheehow\\.nuget\\packages\\coverlet.collector\\3.1.0\\coverlet.collector.3.1.0.nupkg.sha512",
     "C:\\Users\\cheehow\\.nuget\\packages\\microsoft.codecoverage\\16.11.0\\microsoft.codecoverage.16.11.0.nupkg.sha512",

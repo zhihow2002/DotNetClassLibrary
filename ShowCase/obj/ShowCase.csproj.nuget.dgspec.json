@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\cheehow\\Documents\\GitHub\\DotNetClassLibrary\\ShowCase\\ShowCase.csproj": {}
+    "c:\\Users\\cheehow\\Documents\\GitHub\\DotNetClassLibrary\\ShowCase\\ShowCase.csproj": {}
   },
   "projects": {
-    "C:\\Users\\cheehow\\Documents\\GitHub\\DotNetClassLibrary\\ShowCase\\ShowCase.csproj": {
+    "c:\\Users\\cheehow\\Documents\\GitHub\\DotNetClassLibrary\\ShowCase\\ShowCase.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\cheehow\\Documents\\GitHub\\DotNetClassLibrary\\ShowCase\\ShowCase.csproj",
+        "projectUniqueName": "c:\\Users\\cheehow\\Documents\\GitHub\\DotNetClassLibrary\\ShowCase\\ShowCase.csproj",
         "projectName": "ShowCase",
-        "projectPath": "C:\\Users\\cheehow\\Documents\\GitHub\\DotNetClassLibrary\\ShowCase\\ShowCase.csproj",
+        "projectPath": "c:\\Users\\cheehow\\Documents\\GitHub\\DotNetClassLibrary\\ShowCase\\ShowCase.csproj",
         "packagesPath": "C:\\Users\\cheehow\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\cheehow\\Documents\\GitHub\\DotNetClassLibrary\\ShowCase\\obj\\",
+        "outputPath": "c:\\Users\\cheehow\\Documents\\GitHub\\DotNetClassLibrary\\ShowCase\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -29,8 +29,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\cheehow\\Documents\\GitHub\\DotNetClassLibrary\\StringLibrary\\StringLibrary.csproj": {
-                "projectPath": "C:\\Users\\cheehow\\Documents\\GitHub\\DotNetClassLibrary\\StringLibrary\\StringLibrary.csproj"
+              "c:\\Users\\cheehow\\Documents\\GitHub\\DotNetClassLibrary\\StringLibrary\\StringLibrary.csproj": {
+                "projectPath": "c:\\Users\\cheehow\\Documents\\GitHub\\DotNetClassLibrary\\StringLibrary\\StringLibrary.csproj"
               }
             }
           }
@@ -63,14 +63,14 @@
         }
       }
     },
-    "C:\\Users\\cheehow\\Documents\\GitHub\\DotNetClassLibrary\\StringLibrary\\StringLibrary.csproj": {
+    "c:\\Users\\cheehow\\Documents\\GitHub\\DotNetClassLibrary\\StringLibrary\\StringLibrary.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\cheehow\\Documents\\GitHub\\DotNetClassLibrary\\StringLibrary\\StringLibrary.csproj",
+        "projectUniqueName": "c:\\Users\\cheehow\\Documents\\GitHub\\DotNetClassLibrary\\StringLibrary\\StringLibrary.csproj",
         "projectName": "StringLibrary",
-        "projectPath": "C:\\Users\\cheehow\\Documents\\GitHub\\DotNetClassLibrary\\StringLibrary\\StringLibrary.csproj",
+        "projectPath": "c:\\Users\\cheehow\\Documents\\GitHub\\DotNetClassLibrary\\StringLibrary\\StringLibrary.csproj",
         "packagesPath": "C:\\Users\\cheehow\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\cheehow\\Documents\\GitHub\\DotNetClassLibrary\\StringLibrary\\obj\\",
+        "outputPath": "c:\\Users\\cheehow\\Documents\\GitHub\\DotNetClassLibrary\\StringLibrary\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
